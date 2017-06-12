@@ -1,6 +1,7 @@
 Good references:
 * https://stackoverflow.com/questions/21972690/beautifulsoup-scraping-a-forum-page
-* 
+* http://francescopochetti.com/tag/sentiment-analysis/
+* http://varianceexplained.org/r/hn-trends/
 
 todo:
 * X scrape: post title, views, number of posts, votes, freshness
