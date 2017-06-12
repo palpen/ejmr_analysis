@@ -8,7 +8,9 @@ todo:
 * X include original link to post
 * X word frequency (with plot)
 * word trends over time
+    - date inferred from freshness field and download date field
 * funny posts
+* Words most frequently used in the same sentence
 * economic related post vs non-econ., troll vs non-troll
 * sentiment analysis
 * top posts by views, number of posts, votes, etc.
