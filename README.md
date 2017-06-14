@@ -5,7 +5,7 @@ In theory, one could scrape all of the posts within each thread, but that would 
 
 There are still a lot of things I'd like to analyze using this data and will get to it when I have more time (see the todo list below).
 
-The codes for each step are stored in three IPython notebooks. For the analysis, see the ejmr_analysis.ipynb notebook. The notebooks are run in the following order:
+The codes for each step are stored in three IPython notebooks. For the analysis, see the [ejmr_analysis.ipynb notebook](https://github.com/palpen/ejmr_analysis/blob/master/ejmr_analysis.ipynb). The notebooks are run in the following order:
 
 * ejmr_scrape
 * ejmr_clean
