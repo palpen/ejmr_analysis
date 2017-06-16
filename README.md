@@ -22,6 +22,8 @@ todo:
 * Words most frequently used in the same sentence
 * economic related post vs non-econ., troll vs non-troll
 * sentiment analysis
+    - Google NL API? https://cloud.google.com/natural-language/docs/sentiment-tutorial
+        + expensive
 
 Good references:
 * https://stackoverflow.com/questions/21972690/beautifulsoup-scraping-a-forum-page
