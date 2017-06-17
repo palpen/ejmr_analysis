@@ -3,7 +3,7 @@ Codes used for scraping, cleaning, and analyzing thread titles from the [Economi
 
 In theory, one could scrape all of the posts within each thread, but that would be a tremendous amount of data (which is fantastic) and would take much longer. If you feel inspired to do this, please let me know!
 
-There are still a lot of things I'd like to analyze using this data and will get to it when I have more time (see the todo list below).
+There are still a lot of things I'd like to analyze using this data and will get to it when I have more time (see the todo list below). My goal is to implement basic ideas in text analysis and machine learning using Python's NLTK and scikit-learn libraries.
 
 The codes for each step are stored in three IPython notebooks. For the analysis, see the [ejmr_analysis.ipynb notebook](https://github.com/palpen/ejmr_analysis/blob/master/ejmr_analysis.ipynb). The notebooks are run in the following order:
 
