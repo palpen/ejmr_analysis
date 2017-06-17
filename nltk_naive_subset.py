@@ -5,6 +5,10 @@ problems:
 - classifier not working very well (ask StackOver Flow)
     - negative sentiment assigned for very obviously positive sentiments
 
+references:
+* http://www.nltk.org/book/ch06.html#code-document-classify-fd
+* http://streamhacker.com/2010/05/10/text-classification-sentiment-analysis-naive-bayes-classifier/
+
 """
 
 import nltk
