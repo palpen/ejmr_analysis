@@ -1,5 +1,5 @@
 
-Codes used for scraping, cleaning, and analyzing thread titles from the Economic Job Market Rumor website. I was able to scrape data on thread titles, original link to each thread, number of views, votes, and the "freshness" (defined as the time elapsed since the last post) of the thread. There's roughly 286,000 observations going back at least 6 years.
+Codes used for scraping, cleaning, and analyzing thread titles from the [Economics Job Market Rumors](https://www.econjobrumors.com) website (a forum for people interested in rumours and gossip in the economics profession and its the PhD job market...among other things). I was able to scrape data on thread titles, original link to each thread, number of views, votes, and the "freshness" (defined as the time elapsed since the last post) of the thread. There's roughly 286,000 observations going back at least 6 years.
 
 In theory, one could scrape all of the posts within each thread, but that would be a tremendous amount of data (which is fantastic) and would take much longer. If you feel inspired to do this, please let me know!
 
